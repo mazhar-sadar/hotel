@@ -1,0 +1,116 @@
+.login-btn{
+color: whitesmoke;
+background-color: #00a99d;
+border: none;
+padding: 7px 12px;
+}
+.brand{
+    width: 80%;
+}
+.icons-div {
+    display: flex;
+    justify-content: space-around;
+    font-size: 29px;
+}
+nav .container-fluid div ul li {
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+nav .container-fluid div ul li a{
+    color: white;
+}
+.nav-clr{
+    background-color: #00a99d;
+}
+.a-clr{
+    color: black;
+}
+.card-clr{
+    background-color: #f2f2f2;
+}
+.card div img{
+    height: 267.13px;
+}
+.news-sction{
+    background-color: #f2f2f2;
+}
+.clients:before,
+.news:before{
+    content: "";
+    background-color: #00a99d;
+    position: absolute;
+    width: 105px;
+    height: 3px;
+}
+.slide-img{
+    width: 75%;
+}
+footer .foot{
+    background-color: #333;
+    color: white;
+}
+.footer-ul{
+    list-style: none;
+    padding: 0px;
+}
+.footer-ul li{
+    padding-top: 20px;
+    border-bottom: 2px solid gray;
+}
+.footer-bottom{
+    background-color: black; 
+    color: white;
+    
+}
+.footer-p{
+    padding: 20px;
+}
+.follow-div a i {
+    background-color: white;
+    font-size: 29px;
+    color: black;
+    border-radius: 100%;
+    margin: 8px;
+}
+.icon-head{
+    font-size: 20px;
+    padding-right: 10px;
+}
+.news-date{
+    background-color: #00a99d;
+    color: white;
+    margin-left: 62%;
+    margin-top: 3%;
+    padding: 1%;
+}
+.remore-btn{
+    padding: 2%;
+    background-color: white;
+    color: #00a99d;
+    border: 2px solid #00a99d;
+}
+.ourblog-btn{
+    border: none;
+    background-color: #00a99d;
+    padding: 10px;
+    color: white;
+}
+.dtal-btn{
+    color: #00a99d;
+    border: 2px solid #00a99d ;
+}
+.cmpar-btn:hover{
+    background-color: #c7c2c2;
+}
+.card-tag{
+    margin-left: 223px;
+}
+.card-tag span{
+    background-color: #00a99d;
+    color: white;
+}
+.card span{
+    margin-top: 12px;
+}
